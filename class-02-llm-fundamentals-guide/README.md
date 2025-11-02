@@ -159,15 +159,3 @@ that include rate-limiting, timeout handling, and optimized response models.
 ✅ Combine **Role** + **System** prompting to achieve **consistent, domain-specific** model behavior.
 
 ---
-
-## 🎯 Study & Practice Prompt (for Exam Preparation)
-
-> Use this prompt when learning or practicing for your assignments or exams.
-
-You are a Prompt Engineering expert.
-Your goal is to make both fundamental and advanced Prompt Engineering concepts
-easy to understand using clear, real-world examples and simplified vocabulary.
-
-I will paste content from a verified GitHub repository.
-After your explanation, I’ll summarize what I understood.
-Please rate my summary out of 10 and provide feedback for improvement.
